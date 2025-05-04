@@ -23,6 +23,7 @@ Instale seguindo as instruções da sua plataforma (Windows, macOS ou Linux).
 Verifique se está instalado, digite no terminal:
 
 node -v
+
 npm -v
 
 O npm (node package manager) é o gerenciador de pacotes, ele ja vem junto com o node nao precisa instalar separadamente. Com ele iremos instalar as bibliotecas necessárias, conforme a seguir:
@@ -37,7 +38,7 @@ Ideal para iniciantes, exercícios e projetos interativos no terminal.
 
 # Instalando o prompt-sync:
 
-No seu projeto, abra o terminal e de o seguinte comando:
+No seu projeto, abra o terminal e digite o seguinte comando:
 
 npm install prompt-sync
 
