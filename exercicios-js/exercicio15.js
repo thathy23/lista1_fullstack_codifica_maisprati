@@ -32,8 +32,3 @@ do {
 } while (continuar === "S");
 
 console.log("Programa encerrado.");
-
-        } while (continuar.equals("S"));
-
-        console.log("Programa encerrado.");
-        sc.close();
